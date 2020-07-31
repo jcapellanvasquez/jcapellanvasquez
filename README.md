@@ -6,3 +6,5 @@
 - 👯 I’m looking to collaborate on some exciting project.
 - 📫 How to reach me [twitter.com/Julio_vasquez06](https://twitter.com/Julio_vasquez06)
 - 😄 Pronouns: He/Him
+
+#### 🛠 Coming soon my own [portfolio](https://github.com/jcapellanvasquez/portfolio)
