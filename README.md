@@ -7,4 +7,4 @@
 - 📫 How to reach me [twitter.com/Julio_vasquez06](https://twitter.com/Julio_vasquez06)
 - 😄 Pronouns: He/Him
 
-#### 🛠 Coming soon my own [portfolio](https://github.com/jcapellanvasquez/portfolio)
+#### 🛠 working on my [portfolio](https://jcapellanvasquez.github.io/portfolio/)
